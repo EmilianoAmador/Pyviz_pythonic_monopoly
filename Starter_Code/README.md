@@ -21,7 +21,7 @@
 
 ## Neighborhood Analysis (Third Tab)
 
-![](My_images/neighborhoods.png)
+![](My_images/neighborhood.png)
 
 **scroll down**
 
