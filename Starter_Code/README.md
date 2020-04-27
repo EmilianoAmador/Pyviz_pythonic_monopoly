@@ -11,7 +11,7 @@
 
 ![](My_images/housing_units.png)
 
-**scroll down
+**scroll down**
 
 ![](My_images/gross_rent.png)
 
