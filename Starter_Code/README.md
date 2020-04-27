@@ -8,21 +8,26 @@
 
 ![](My_images/housing_units.png)
 
-scroll down
+**scroll down**
+
 ![](My_images/gross_rent.png)
-scroll down
+
+**scroll down**
+
 ![](My_images/sale_price.png)
 
-## Neighborhood Analysis
+## Neighborhood Analysis (Third Tab)
 
 ![](My_images/neighborhoods.png)
-scroll down
+
+**scroll down**
+
 ![](My_images/top_10.png)
 
-## Parallel Plots
+## Parallel Plots (Fourth Tab)
 
 ![](My_images/parallel_coordinates.png)
 
-scroll down
+**scroll down**
 
 ![](My_images/parallel_categories.png)
