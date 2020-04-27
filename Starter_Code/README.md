@@ -27,6 +27,9 @@
 
 ![](My_images/top_10.png)
 
+**Hover over the bars to get more info about the top ten neighborhoods.**
+![](My_images/top_hover.png)
+
 ## Parallel Plots (Fourth Tab)
 
 ![](My_images/parallel_coordinates.png)
