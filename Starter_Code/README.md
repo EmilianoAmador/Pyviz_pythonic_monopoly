@@ -33,4 +33,4 @@
 
 **scroll down**
 
-![](My_images/parallel_categories.png)
+![](My_images/parallel_category.png)
