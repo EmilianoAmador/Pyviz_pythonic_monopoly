@@ -4,6 +4,9 @@
 
 ![Dashboard](My_images/map.png)
 
+**Hover your mouse on the data points to get more information about the neighborhoods**
+![Dashboard](My_images/map_2.png)
+
 ## Yearly Market Analysis (second Tab)
 
 ![](My_images/housing_units.png)
