@@ -13,7 +13,7 @@
 
 **scroll down**
 
-![](My_images/gross_rent.png)
+![](My_images/gross_rent2.png)
 
 **scroll down**
 
