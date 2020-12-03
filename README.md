@@ -1,39 +1,31 @@
 # Real Estate Analysis of San Francisco from 2010 to 2016
 
-## Overview 
+## Overview of Dashboard Features
 
 ![Dashboard](Images/dashboard-demo.gif)
 
-**Hover your mouse on the data points to get more information about the neighborhoods**
+## Geographic Housing Analysis (First Tab)
+
 ![Dashboard](Images/map_2.png)
 
 ## Yearly Market Analysis (second Tab)
 
 ![](Images/housing_units.png)
-
-**scroll down**
-
+<br/>
 ![](Images/gross_rent2.png)
-
-**scroll down**
-
+<br/>
 ![](Images/sale_price.png)
 
 ## Neighborhood Analysis (Third Tab)
 
 ![](Images/neighborhood.png)
-
-**scroll down**
-
+<br/>
 ![](Images/top_10.png)
-
-**Hover over the bars to get more info about the top ten neighborhoods.**
+<br/>
 ![](Images/top_hover.png)
 
 ## Parallel Plots (Fourth Tab)
 
 ![](Images/parallel_coordinates.png)
-
-**scroll down**
-
+<br/>
 ![](Images/parallel_category.png)
