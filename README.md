@@ -2,7 +2,7 @@
 
 ## Overview 
 
-![Dashboard](Images/map.png)
+![Dashboard](Images/dashboard-demo.gif)
 
 **Hover your mouse on the data points to get more information about the neighborhoods**
 ![Dashboard](Images/map_2.png)
