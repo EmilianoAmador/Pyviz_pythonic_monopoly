@@ -5,11 +5,11 @@ This dashboard showcases various investment opportunities for the San Fransisco 
 This section demonstrates the transitions between each tab and some of the interactive features among the visuals. 
 ![Dashboard](Images/dashboard-demo.gif)
 
-### Geographic Housing Analysis (First Tab)
+## Geographic Housing Analysis (First Tab)
 
 ![Dashboard](Images/map_2.png)
 
-### Yearly Market Analysis (second Tab)
+## Yearly Market Analysis (second Tab)
 
 ![](Images/housing_units.png)
 <br/>
@@ -17,7 +17,7 @@ This section demonstrates the transitions between each tab and some of the inter
 <br/>
 ![](Images/sale_price.png)
 
-### Neighborhood Analysis (Third Tab)
+## Neighborhood Analysis (Third Tab)
 
 ![](Images/neighborhood.png)
 <br/>
@@ -25,7 +25,7 @@ This section demonstrates the transitions between each tab and some of the inter
 <br/>
 ![](Images/top_hover.png)
 
-### Parallel Plots (Fourth Tab)
+## Parallel Plots (Fourth Tab)
 
 ![](Images/parallel_coordinates.png)
 <br/>
