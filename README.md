@@ -21,9 +21,9 @@ This section demonstrates the overall dashboard functionality with transitions b
 <br/>
 ![](Images/sale_price.png)
 
-* ## Neighborhood Analysis (Third Tab) 
-
 ---
+
+* ## Neighborhood Analysis (Third Tab) 
 
 ![](Images/neighborhood.png)
 <br/>
@@ -31,9 +31,9 @@ This section demonstrates the overall dashboard functionality with transitions b
 <br/>
 ![](Images/top_hover.png)
 
-* ## Parallel Plots (Fourth Tab) 
-
 ---
+
+* ## Parallel Plots (Fourth Tab) 
 
 ![](Images/parallel_coordinates.png)
 <br/>
