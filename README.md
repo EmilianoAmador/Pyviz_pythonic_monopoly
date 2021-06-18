@@ -3,38 +3,38 @@ This dashboard showcases various investment opportunities for the San Fransisco 
 
 ## **Overview of Dashboard Features**
 This section demonstrates the overall dashboard functionality with transitions between each tab and some of the interactive features among the visuals. 
-![Dashboard](Images/dashboard-demo.gif)
+[![Dashboard](Images/dashboard-demo.gif)](https://github.com/EmilianoAmador/Pyviz_pythonic_monopoly/blob/master/Images/dashboard-demo.gif "Click Me")
 
 ---
 
 * ## Geographic Housing Analysis (First Tab) 
 
-![Dashboard](Images/map_2.png)
+[![Dashboard](Images/map_2.png)](https://github.com/EmilianoAmador/Pyviz_pythonic_monopoly/blob/master/Images/map_2.png "Click Me")
 
 ---
 
 * ## Yearly Market Analysis (second Tab) 
 
-![](Images/housing_units.png)
+[![](Images/housing_units.png)](https://github.com/EmilianoAmador/Pyviz_pythonic_monopoly/blob/master/Images/housing_units.png "Click Me")
 <br/>
-![](Images/gross_rent2.png)
+[![](Images/gross_rent2.png)](https://github.com/EmilianoAmador/Pyviz_pythonic_monopoly/blob/master/Images/gross_rent2.png "Click Me")
 <br/>
-![](Images/sale_price.png)
+[![](Images/sale_price.png)](https://github.com/EmilianoAmador/Pyviz_pythonic_monopoly/blob/master/Images/sale_price.png "Click Me")
 
 ---
 
 * ## Neighborhood Analysis (Third Tab) 
 
-![](Images/neighborhood.png)
+[![](Images/neighborhood.png)](https://github.com/EmilianoAmador/Pyviz_pythonic_monopoly/blob/master/Images/neighborhood.png "Click Me")
 <br/>
-![](Images/top_10.png)
+[![](Images/top_10.png)](https://github.com/EmilianoAmador/Pyviz_pythonic_monopoly/blob/master/Images/top_10.png "Click Me")
 <br/>
-![](Images/top_hover.png)
+[![](Images/top_hover.png)](https://github.com/EmilianoAmador/Pyviz_pythonic_monopoly/blob/master/Images/top_hover.png "Click Me")
 
 ---
 
 * ## Parallel Plots (Fourth Tab) 
 
-![](Images/parallel_coordinates.png)
+[![](Images/parallel_coordinates.png)](https://github.com/EmilianoAmador/Pyviz_pythonic_monopoly/blob/master/Images/parallel_coordinates.png "Click Me")
 <br/>
-![](Images/parallel_category.png)
+[![](Images/parallel_category.png)](https://github.com/EmilianoAmador/Pyviz_pythonic_monopoly/blob/master/Images/parallel_category.png "Click Me")
